@@ -1,0 +1,5 @@
+{
+  "name": "The One Day Door",
+  "description": "A mystical door that only opens on a special day of the year, revealing a surprise video. Configure the special day, door image, and video URL in constants.ts.",
+  "requestFramePermissions": []
+}
